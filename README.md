@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Brian K
+- 👋 Hi, I’m @Brian Koech
 - 👀 I’m interested in bringing ideas to reality through software.
-- 🌱 I’m currently learning next js framework 
-- 💞️ I’m looking to collaborate on any project mainly based on web development.
+- 🌱 I’m currently learning docker and docker-compose
+- 💞️ I’m looking to collaborate on any project mainly based on python.
 - 📫 How to reach me :brykoech@gmail.com
 - You can view my blog on: https://programming.co.ke/
 <!---
